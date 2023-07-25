@@ -1,0 +1,28 @@
+ Land Details.
+
+Document Num 1
+
+1.Survey Num 241 --->0.75(acres)or 0.303(Hectare)
+2.Survey Num 242 --->0.75(acres)or 0.303(Hectare)
+3.Survey Num 243 --->0.75(acres)or 0.303(Hectare)
+Total--->2.25(acres)
+
+Document Num 2
+
+1.Survey Num 241 --->0.75(acres)
+2.Survey Num 242 --->0.75(acres)
+3.Survey Num 243 --->0.75(acres)
+Total---->2.25(acres)
+
+Document Num 3
+
+1.Survey Num 241 --->1.00(acres)or 0.404(Hectare)
+2.Survey Num 242 --->1.00(acres)or 0.404(Hectare)
+3.Survey Num 243 --->1.00(acres)or 0.404(Hectare)
+Total--->3(acres)
+
+Document Num 4
+1.Survey Num 241 --->0.83cents
+2.Survey Num 242 --->0.83cents
+3.Survey Num 243 --->0.82cents
+Total--->2.48cents
